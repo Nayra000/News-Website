@@ -1,0 +1,489 @@
+﻿++Solution 'ITI_Final' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:ITI_Final.sln
+++ITI_Final
+i:{00000000-0000-0000-0000-000000000000}:ITI_Final
+++Connected Services 
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:>681
+++Dependencies
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:>680
+++Properties
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\properties\
+++wwwroot
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\
+++Areas
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\areas\
+++Identity
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\areas\identity\
+++Pages
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\areas\identity\pages\
+++_ViewStart.cshtml
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\areas\identity\pages\_viewstart.cshtml
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\views\_viewstart.cshtml
+++Controllers
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\controllers\
+++CategoriesController.cs
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\controllers\categoriescontroller.cs
+++HomeController.cs
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\controllers\homecontroller.cs
+++Data
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\data\
+++Models
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\models\
+++Category.cs
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\models\category.cs
+++ContactUs.cs
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\models\contactus.cs
+++ErrorViewModel.cs
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\models\errorviewmodel.cs
+++News.cs
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\models\news.cs
+++NewsWebsiteContext.cs
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\models\newswebsitecontext.cs
+++Teammember.cs
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\models\teammember.cs
+++Views
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\views\
+++Categories
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\views\categories\
+++Create.cshtml
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\views\categories\create.cshtml
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\views\news\create.cshtml
+++Delete.cshtml
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\views\categories\delete.cshtml
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\views\news\delete.cshtml
+++Details.cshtml
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\views\categories\details.cshtml
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\views\news\details.cshtml
+++Edit.cshtml
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\views\categories\edit.cshtml
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\views\news\edit.cshtml
+++Index.cshtml
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\views\categories\index.cshtml
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\views\home\index.cshtml
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\views\news\index.cshtml
+++Home
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\views\home\
+++Contact.cshtml
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\views\home\contact.cshtml
+++Messages.cshtml
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\views\home\messages.cshtml
+++News.cshtml
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\views\home\news.cshtml
+++Privacy.cshtml
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\views\home\privacy.cshtml
+++Shared
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\views\shared\
+++_Layout.cshtml
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\views\shared\_layout.cshtml
+++_LoginPartial.cshtml
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\views\shared\_loginpartial.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\views\_viewimports.cshtml
+++appsettings.json
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\appsettings.json
+++Program.cs
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\program.cs
+++SQL Server Express LocalDB (Local) (ConnectionStrings:DefaultConnection)
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:>705
+++Analyzers
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:analyzers
+++Frameworks
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:frameworks
+++Packages
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:packages
+++launchSettings.json
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\properties\launchsettings.json
+++serviceDependencies.json
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\properties\servicedependencies.json
+++assets
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\
+++Migrations
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\data\migrations\
+++ApplicationDbContext.cs
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\data\applicationdbcontext.cs
+++_Layout.cshtml.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\views\shared\_layout.cshtml.css
+++appsettings.Development.json
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\appsettings.development.json
+++MessagePackAnalyzer
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:c:\users\bios\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.8\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.8\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:c:\users\bios\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:c:\users\bios\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:c:\users\bios\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.8\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.8\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.8\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\microsoft.netcore.app
+++Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore (6.0.8)
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:>701
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.8)
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:>702
+++Microsoft.AspNetCore.Identity.UI (6.0.8)
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:>704
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.8)
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:>700
+++Microsoft.EntityFrameworkCore.Tools (6.0.8)
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:>703
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.8)
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:>1167
+++Swashbuckle.AspNetCore (6.3.0)
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:>712
+++serviceDependencies.local.json
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\properties\servicedependencies.local.json
+++css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\css\
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\boxicons\css\
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\css\
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\glightbox\css\
+++img
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\
+++js
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\js\
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\js\
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\glightbox\js\
+++scss
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\scss\
+++vendor
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\
+++00000000000000_CreateIdentitySchema.cs
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\data\migrations\00000000000000_createidentityschema.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\data\migrations\applicationdbcontextmodelsnapshot.cs
+++style.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\css\style.css
+++doctors
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\doctors\
+++gallery
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\gallery\
+++slide
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\slide\
+++testimonials
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\testimonials\
+++about.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\about.jpg
+++apple-touch-icon.png
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\apple-touch-icon.png
+++departments-1.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\departments-1.jpg
+++departments-2.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\departments-2.jpg
+++departments-3.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\departments-3.jpg
+++departments-4.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\departments-4.jpg
+++departments-5.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\departments-5.jpg
+++favicon.png
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\favicon.png
+++features.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\features.jpg
+++logo.png
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\logo.png
+++main.js
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\js\main.js
+++Readme.txt
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\scss\readme.txt
+++animate.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\animate.css\
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\animate.css\animate.css
+++aos
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\aos\
+++bootstrap
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\
+++bootstrap-icons
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap-icons\
+++boxicons
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\boxicons\
+++fontawesome-free
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\
+++glightbox
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\glightbox\
+++php-email-form
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\php-email-form\
+++purecounter
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\purecounter\
+++swiper
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\swiper\
+++00000000000000_CreateIdentitySchema.Designer.cs
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\data\migrations\00000000000000_createidentityschema.designer.cs
+++doctors-1.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\doctors\doctors-1.jpg
+++doctors-2.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\doctors\doctors-2.jpg
+++doctors-3.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\doctors\doctors-3.jpg
+++doctors-4.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\doctors\doctors-4.jpg
+++gallery-1.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\gallery\gallery-1.jpg
+++gallery-2.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\gallery\gallery-2.jpg
+++gallery-3.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\gallery\gallery-3.jpg
+++gallery-4.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\gallery\gallery-4.jpg
+++gallery-5.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\gallery\gallery-5.jpg
+++gallery-6.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\gallery\gallery-6.jpg
+++gallery-7.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\gallery\gallery-7.jpg
+++gallery-8.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\gallery\gallery-8.jpg
+++1.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\slide\1.jpg
+++2.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\slide\2.jpg
+++3.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\slide\3.jpg
+++slide-1.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\slide\slide-1.jpg
+++slide-2.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\slide\slide-2.jpg
+++slide-3.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\slide\slide-3.jpg
+++testimonials-1.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\testimonials\testimonials-1.jpg
+++testimonials-2.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\testimonials\testimonials-2.jpg
+++testimonials-3.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\testimonials\testimonials-3.jpg
+++testimonials-4.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\testimonials\testimonials-4.jpg
+++testimonials-5.jpg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\img\testimonials\testimonials-5.jpg
+++aos.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\aos\aos.css
+++aos.js
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\aos\aos.js
+++fonts
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap-icons\fonts\
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\boxicons\fonts\
+++bootstrap-icons.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap-icons\bootstrap-icons.css
+++bootstrap-icons.json
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap-icons\bootstrap-icons.json
+++index.html
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap-icons\index.html
+++webfonts
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\webfonts\
+++validate.js
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\php-email-form\validate.js
+++purecounter_vanilla.js
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\purecounter\purecounter_vanilla.js
+++swiper-bundle.min.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\swiper\swiper-bundle.min.css
+++swiper-bundle.min.js
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\swiper\swiper-bundle.min.js
+++animate.compat.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\animate.css\animate.compat.css
+++animate.min.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\animate.css\animate.min.css
+++bootstrap.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap.css
+++bootstrap-grid.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap-utilities.css
+++bootstrap.js
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\js\bootstrap.js
+++bootstrap-icons.woff
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap-icons\fonts\bootstrap-icons.woff
+++bootstrap-icons.woff2
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap-icons\fonts\bootstrap-icons.woff2
+++animations.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\boxicons\css\animations.css
+++boxicons.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\boxicons\css\boxicons.css
+++transformations.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\boxicons\css\transformations.css
+++boxicons.eot
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\boxicons\fonts\boxicons.eot
+++boxicons.svg
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\boxicons\fonts\boxicons.svg
+++boxicons.ttf
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\boxicons\fonts\boxicons.ttf
+++boxicons.woff
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\boxicons\fonts\boxicons.woff
+++boxicons.woff2
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\boxicons\fonts\boxicons.woff2
+++all.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\css\all.css
+++brands.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\css\brands.css
+++fontawesome.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\css\fontawesome.css
+++regular.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\css\regular.css
+++solid.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\css\solid.css
+++svg-with-js.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\css\svg-with-js.css
+++v4-font-face.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\css\v4-font-face.css
+++v4-shims.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\css\v4-shims.css
+++v5-font-face.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\css\v5-font-face.css
+++fa-brands-400.ttf
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\webfonts\fa-brands-400.ttf
+++fa-brands-400.woff2
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\webfonts\fa-brands-400.woff2
+++fa-regular-400.ttf
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\webfonts\fa-regular-400.ttf
+++fa-regular-400.woff2
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\webfonts\fa-regular-400.woff2
+++fa-solid-900.ttf
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\webfonts\fa-solid-900.ttf
+++fa-solid-900.woff2
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\webfonts\fa-solid-900.woff2
+++fa-v4compatibility.ttf
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\webfonts\fa-v4compatibility.ttf
+++fa-v4compatibility.woff2
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\webfonts\fa-v4compatibility.woff2
+++glightbox.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\glightbox\css\glightbox.css
+++plyr.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\glightbox\css\plyr.css
+++glightbox.js
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\glightbox\js\glightbox.js
+++bootstrap.css.map
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap.css.map
+++bootstrap.min.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\js\bootstrap.js.map
+++bootstrap.min.js
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\js\bootstrap.min.js
+++boxicons.min.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\boxicons\css\boxicons.min.css
+++all.min.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\css\all.min.css
+++brands.min.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\css\brands.min.css
+++fontawesome.min.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\css\fontawesome.min.css
+++regular.min.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\css\regular.min.css
+++solid.min.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\css\solid.min.css
+++svg-with-js.min.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\css\svg-with-js.min.css
+++v4-font-face.min.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\css\v4-font-face.min.css
+++v4-shims.min.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\css\v4-shims.min.css
+++v5-font-face.min.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\fontawesome-free\css\v5-font-face.min.css
+++glightbox.min.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\glightbox\css\glightbox.min.css
+++plyr.min.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\glightbox\css\plyr.min.css
+++glightbox.min.js
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\glightbox\js\glightbox.min.js
+++bootstrap.min.css.map
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\wwwroot\assets\vendor\bootstrap\js\bootstrap.esm.min.js.map
+++NewsController.cs
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\controllers\newscontroller.cs
+++News
+i:{9f35dfe5-1e41-4b81-9aff-2dbfbdc5b5ad}:d:\iti training\iti_final\views\news\
